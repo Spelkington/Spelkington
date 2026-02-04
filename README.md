@@ -24,10 +24,4 @@ I try to make a habit of publishing interesting/helpful notes from my Obsidian v
 
 - **[Evolution and Revolution as Organizations Grow](https://blog.chaoticgood.computer/content/annotations/evolutions-revolutions)**:  Annotations for Greiner&#39;s 1972 paper &quot;Evolution and Revolution as Organizations Grow&quot;, about the structural composition of organizations at different sizes and requirements. &lpar;0 min read&rpar; 
   - **Tags**: [`#strategy`](https://blog.chaoticgood.computer/tags/economics/strategy/), [`#annotations`](https://blog.chaoticgood.computer/tags/writing/annotations/), [`#ai`](https://blog.chaoticgood.computer/tags/engineering/ai/), [`#dayjob`](https://blog.chaoticgood.computer/tags/projects/dayjob/)
-
-- **[Quick Fix: Tone Down Obsidian List/Header Padding](https://blog.chaoticgood.computer/content/notes/fixing-obsidian-paddings-and-margins)**:  Annoyed by Obsidian Live Preview over-padding headers and aggressively indenting? Some snippets to help keep your notes from jumping around, so you can focus on actually writing them. &lpar;3 min read&rpar; 
-  - **Tags**: [`#site`](https://blog.chaoticgood.computer/tags/projects/site/), [`#frontend`](https://blog.chaoticgood.computer/tags/engineering/frontend/)
-
-- **[The Advantages of Advantage: Intro to Probability Convolutions](https://blog.chaoticgood.computer/content/notes/roll-advantage)**:  What *is* the advantage of rolling with advantage? Exploring dice roll combinations and probability convolutions. &lpar;8 min read&rpar; 
-  - **Tags**: [`#games`](https://blog.chaoticgood.computer/tags/projects/games/), [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#articles`](https://blog.chaoticgood.computer/tags/writing/articles/), [`#highlights`](https://blog.chaoticgood.computer/tags/writing/highlights/)
 <!-- BLOG-POST-LIST:END -->
