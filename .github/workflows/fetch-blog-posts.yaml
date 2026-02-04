@@ -19,7 +19,7 @@ jobs:
           feed_list: "https://blog.chaoticgood.computer/index.xml"
           committer_username: "cgc-rss[bot]"
           committer_email: "blog@chaoticgood.computer"
-          template: "- **[$title]($url)**: $description$newline  - $categories$newline"
+          template: "$newline- **[$title]($url)**: $description$newline  - $categories$newline"
           categories_template: "$category "
           item_exec: >-
             post.categories = post.categories.map(cat => {
