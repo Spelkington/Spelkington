@@ -3,6 +3,9 @@ on:
   schedule:
     - cron: "0 10 * * *" # Runs once a day at 10:00 UTC / 3:00 AM MST
   workflow_dispatch:
+  push:
+    paths:
+      - ".github/workflows/fetch-blog-posts.yaml"
 permissions:
   contents: write
 
@@ -20,8 +23,9 @@ jobs:
           committer_username: "cgc-rss[bot]"
           committer_email: "blog@chaoticgood.computer"
           template: "$newline- **[$title]($url)**: $description$newline  - **Tags**: $categories$newline"
+          categories_template: "$category, "
           item_exec: >-
             post.categories = post.categories.map(cat => {
               const label = cat.split('/').pop();
               return '[`#' + label + '`](https://blog.chaoticgood.computer/tags/' + cat + '/)';
-            }).join(', ');
+            });
