@@ -6,6 +6,8 @@
 
 I routinely kick some of the more interesting notes from my Obsidian vault, in case they can be helpful to other folks.
 
+You can find my full notes collection on [my site](https://blog.chaoticgood.computer). Here are some of the most recent notes:
+
 <!-- BLOG-POST-LIST:START -->
 - **[Ants in the Neighborhood](https://blog.chaoticgood.computer/content/notes/ants-in-the-neighborhood)**:  &lpar;1 min read&rpar; 
   - [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/)[`#neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/neighborhood/)[`#pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/pattern-language/)

@@ -19,10 +19,9 @@ jobs:
           feed_list: "https://blog.chaoticgood.computer/index.xml"
           committer_username: "cgc-rss[bot]"
           committer_email: "blog@chaoticgood.computer"
-          template: "$newline- **[$title]($url)**: $description$newline  - $categories$newline"
-          categories_template: "$category "
+          template: "$newline- **[$title]($url)**: $description$newline  - **Tags**: $categories$newline"
           item_exec: >-
             post.categories = post.categories.map(cat => {
               const label = cat.split('/').pop();
               return '[`#' + label + '`](https://blog.chaoticgood.computer/tags/' + cat + '/)';
-            });
+            }).join(', ');
