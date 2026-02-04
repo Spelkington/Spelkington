@@ -1,0 +1,28 @@
+name: Fetch latests CGC posts
+on:
+  schedule:
+    - cron: "0 10 * * *" # Runs once a day at 10:00 UTC / 3:00 AM MST
+  workflow_dispatch:
+permissions:
+  contents: write
+
+jobs:
+  update-readme-with-blog:
+    name: Update this repo's README with latest blog posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull CGC RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://blog.chaoticgood.computer/index.xml"
+          committer_username: "cgc-rss[bot]"
+          committer_email: "blog@chaoticgood.computer"
+          template: "- **[$title]($url)**: $description$newline  - $categories$newline"
+          categories_template: "$category "
+          item_exec: >-
+            post.categories = post.categories.map(cat => {
+              const label = cat.split('/').pop();
+              return '[`#' + label + '`](https://blog.chaoticgood.computer/tags/' + cat + '/)';
+            });
