@@ -1,12 +1,19 @@
-## Howdy!
+## *Oh, Howdy!*
 
+[![Website](https://img.shields.io/website?label=cg.computer&style=for-the-badge&url=https%3A%2F%2Fchaoticgood.computer)](https://chaoticgood.computer)
+[![ATProto](https://img.shields.io/bluesky/posts/speen.us?style=for-the-badge&logo=bluesky&logoColor=%231185FE&color=%231185FE)](https://bsky.app/profile/speen.us)
 
+I'm Spencer — welcome to the page!
 
-### Obsidian Notes
+### I like to be lazy, and will work incredibly hard to help other people be lazy, too.
 
-I routinely kick some of the more interesting notes from my Obsidian vault, in case they can be helpful to other folks.
+- 🎨 Most of my projects are centered around data processing and visualization, with a bit of developer utility libraries mixed in for zest
+- 🏛️ During the day, I work at **[@constituentvoice](https://github.com/constituentvoice)** building utilties that help citizens connect with their elected representatives
+- ☕ In my off hours, I spend my time playing music, writing (at **[@chaoticgoodcomputing](https://github.com/chaoticgoodcomputing)**), and drinking a reprehensible amount of drip coffee.
 
-You can find my full notes collection on [my site](https://blog.chaoticgood.computer). Here are some of the most recent notes:
+### Published Notes
+
+I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you find one interesting and want to chat more about it, reach out!
 
 <!-- BLOG-POST-LIST:START -->
 - **[Ants in the Neighborhood](https://blog.chaoticgood.computer/content/notes/ants-in-the-neighborhood)**:  &lpar;1 min read&rpar; 
