@@ -17,10 +17,10 @@ I try to make a habit of publishing interesting/helpful notes from my Obsidian v
 
 <!-- BLOG-POST-LIST:START -->
 - **[Ants in the Neighborhood](https://blog.chaoticgood.computer/content/notes/ants-in-the-neighborhood)**:  &lpar;1 min read&rpar; 
-  - **Tags**: [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/neighborhood/), [`#pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/pattern-language/)
+  - **Tags**: [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/)
 
 - **[A Pattern Language, and a Beautiful Day in the Neighborhood](https://blog.chaoticgood.computer/content/notes/pattern-languages-of-the-neighborhood)**:  The beginning of a topological review of the 1977 urban design and architecture reference book A Pattern Language, and a journey to understand Earth&#39;s greatest graph: the Earth, itself. &lpar;12 min read&rpar; 
-  - **Tags**: [`#neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/neighborhood/), [`#pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/pattern-language/), [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
+  - **Tags**: [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
 
 - **[Evolution and Revolution as Organizations Grow](https://blog.chaoticgood.computer/content/annotations/evolutions-revolutions)**:  Annotations for Greiner&#39;s 1972 paper &quot;Evolution and Revolution as Organizations Grow&quot;, about the structural composition of organizations at different sizes and requirements. &lpar;0 min read&rpar; 
   - **Tags**: [`#strategy`](https://blog.chaoticgood.computer/tags/economics/strategy/), [`#annotations`](https://blog.chaoticgood.computer/tags/writing/annotations/), [`#ai`](https://blog.chaoticgood.computer/tags/engineering/ai/), [`#dayjob`](https://blog.chaoticgood.computer/tags/projects/dayjob/)
