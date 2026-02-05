@@ -13,7 +13,7 @@ I'm Spencer — welcome to the page!
 
 ### Published Notes
 
-I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you find one interesting and want to chat more about it, reach out!
+I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
 - **[Ants in the Neighborhood](https://blog.chaoticgood.computer/content/notes/ants-in-the-neighborhood)**:  &lpar;1 min read&rpar; 
