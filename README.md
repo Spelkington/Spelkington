@@ -16,7 +16,7 @@ I'm Spencer — welcome to the page!
 I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
-- **[Ants in the Neighborhood](https://blog.chaoticgood.computer/content/notes/ants-in-the-neighborhood)**:  &lpar;1 min read&rpar; 
+- **[Ants in the Neighborhood](https://blog.chaoticgood.computer/content/notes/ants-in-the-neighborhood)**:  Is Jane Street run by soccer-loving ants? Inconclusive. We *can* conclude that they&#39;re fans of Markov Chains, though — an invaluable tool for understanding complex data structures. &lpar;1 min read&rpar; 
   - **Tags**: [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/)
 
 - **[A Pattern Language, and a Beautiful Day in the Neighborhood](https://blog.chaoticgood.computer/content/notes/pattern-languages-of-the-neighborhood)**:  The beginning of a topological review of the 1977 urban design and architecture reference book A Pattern Language, and a journey to understand Earth&#39;s greatest graph: the Earth, itself. &lpar;12 min read&rpar; 
