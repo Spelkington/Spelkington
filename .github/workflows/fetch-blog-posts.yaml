@@ -20,7 +20,7 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://blog.chaoticgood.computer/index.xml"
-          max_post_count: 3
+          max_post_count: 5
           committer_username: "cgc-rss[bot]"
           committer_email: "blog@chaoticgood.computer"
           template: "$newline- **[$title]($url)**: $description$newline  - **Tags**: $categories$newline"
