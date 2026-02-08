@@ -16,18 +16,18 @@ I'm Spencer — welcome to the page!
 I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
+- **[APL: Pattern 1; Independent Regions](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/01-independent-regions)**:  Home isn&#39;t where the heart is — it&#39;s a single node on a very, very large graph. Annotations for the &quot;Independent Regions&quot; pattern of *A Pattern Language*. &lpar;10 min read&rpar; 
+  - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
+
+- **[APL: Pattern 2; The Distribution of Towns](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/02-the-distribution-of-towns)**:  How close is too close? How far is too far? *A Pattern Language* annotations related to the statistical, economic, and ecologic concerns in balancing how dense human habitats ought to be. &lpar;5 min read&rpar; 
+  - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
+
+- **[APL: Pattern 3; City Country Fingers](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/03-city-country-fingers)**:  City, with natural stripes — or nature, with city stripes? Annotations for A Pattern Language, and tracking public opinion of where Americans want to live over the past 50 years. &lpar;4 min read&rpar; 
+  - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#markets`](https://blog.chaoticgood.computer/tags/economics/markets/), [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/)
+
 - **[APL: Pattern 0; Introduction](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/00-introduction)**:  Can graphs be libertarian? Authoritarian? Annotations for the introductory portion of the 1977 book A Pattern Language. &lpar;9 min read&rpar; 
   - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
 
 - **[Ants in the Neighborhood](https://blog.chaoticgood.computer/content/notes/ants-in-the-neighborhood)**:  Is Jane Street run by soccer-loving ants? Inconclusive. We *can* conclude that they&#39;re fans of Markov Chains, though — an invaluable tool for understanding complex data structures. &lpar;1 min read&rpar; 
   - **Tags**: [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/)
-
-- **[A Pattern Language, and a Beautiful Day in the Neighborhood](https://blog.chaoticgood.computer/content/notes/pattern-languages-of-the-neighborhood)**:  The beginning of a topological review of the 1977 urban design and architecture reference book A Pattern Language, and a journey to understand Earth&#39;s greatest graph: the Earth, itself. &lpar;12 min read&rpar; 
-  - **Tags**: [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
-
-- **[Systems: Week 7](https://blog.chaoticgood.computer/content/notes/periodic/weekly/2026/2026-W06)**:  &lpar;1 min read&rpar; 
-  - **Tags**: [`#systems`](https://blog.chaoticgood.computer/tags/horticulture/seasons/systems/)
-
-- **[Evolution and Revolution as Organizations Grow](https://blog.chaoticgood.computer/content/annotations/evolutions-revolutions)**:  Annotations for Greiner&#39;s 1972 paper &quot;Evolution and Revolution as Organizations Grow&quot;, about the structural composition of organizations at different sizes and requirements. &lpar;0 min read&rpar; 
-  - **Tags**: [`#strategy`](https://blog.chaoticgood.computer/tags/economics/strategy/), [`#annotations`](https://blog.chaoticgood.computer/tags/writing/annotations/), [`#ai`](https://blog.chaoticgood.computer/tags/engineering/ai/), [`#dayjob`](https://blog.chaoticgood.computer/tags/projects/dayjob/)
 <!-- BLOG-POST-LIST:END -->
