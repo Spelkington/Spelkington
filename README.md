@@ -16,18 +16,18 @@ I'm Spencer — welcome to the page!
 I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
+- **[APL: Pattern 4; Agricultural Valleys](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/04-agricultural-valleys)**:  Urban development has the high ground over agricultural and ecological preservation — and it should! *A Pattern Language* annotations on Pattern 4: Agricultural Valleys &lpar;2 min read&rpar; 
+  - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/)
+
+- **[APL: Pattern 5; Lace of Country Streets](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/05-lace-of-country-streets)**:  How dense is too dense? How sparse is too sparse? Annotations for A Pattern Language&#39;s proposals for the density of metro-adjacent country streets for agriculture, recreation, and preservation. &lpar;3 min read&rpar; 
+  - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
+
+- **[Systems: Week 8](https://blog.chaoticgood.computer/content/notes/periodic/weekly/2026/2026-W07)**:  &lpar;4 min read&rpar; 
+  - **Tags**: [`#systems`](https://blog.chaoticgood.computer/tags/horticulture/seasons/systems/)
+
 - **[APL: Pattern 1; Independent Regions](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/01-independent-regions)**:  Home isn&#39;t where the heart is — it&#39;s a single node on a very, very large graph. Annotations for the &quot;Independent Regions&quot; pattern of *A Pattern Language*. &lpar;10 min read&rpar; 
   - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
 
 - **[APL: Pattern 2; The Distribution of Towns](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/02-the-distribution-of-towns)**:  How close is too close? How far is too far? *A Pattern Language* annotations related to the statistical, economic, and ecologic concerns in balancing how dense human habitats ought to be. &lpar;5 min read&rpar; 
   - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
-
-- **[APL: Pattern 3; City Country Fingers](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/03-city-country-fingers)**:  City, with natural stripes — or nature, with city stripes? Annotations for A Pattern Language, and tracking public opinion of where Americans want to live over the past 50 years. &lpar;4 min read&rpar; 
-  - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#markets`](https://blog.chaoticgood.computer/tags/economics/markets/), [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/)
-
-- **[APL: Pattern 0; Introduction](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/00-introduction)**:  Can graphs be libertarian? Authoritarian? Annotations for the introductory portion of the 1977 book A Pattern Language. &lpar;9 min read&rpar; 
-  - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
-
-- **[Ants in the Neighborhood](https://blog.chaoticgood.computer/content/notes/ants-in-the-neighborhood)**:  Is Jane Street run by soccer-loving ants? Inconclusive. We *can* conclude that they&#39;re fans of Markov Chains, though — an invaluable tool for understanding complex data structures. &lpar;1 min read&rpar; 
-  - **Tags**: [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/)
 <!-- BLOG-POST-LIST:END -->
