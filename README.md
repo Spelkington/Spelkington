@@ -16,6 +16,9 @@ I'm Spencer — welcome to the page!
 I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
+- **[Agentic Programming as Theory Building](https://blog.chaoticgood.computer/content/annotations/programming-as-theory-building)**:  Do humans have a role in software development anymore? Absolutely — but we need to rethink what it means to program. An modern review of Peter Naur&#39;s 1985 essay &quot;Programming as Theory Building&quot; &lpar;0 min read&rpar; 
+  - **Tags**: [`#ai`](https://blog.chaoticgood.computer/tags/engineering/ai/), [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#strategy`](https://blog.chaoticgood.computer/tags/economics/strategy/), [`#annotations`](https://blog.chaoticgood.computer/tags/writing/annotations/)
+
 - **[APL: Pattern 4; Agricultural Valleys](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/04-agricultural-valleys)**:  Urban development has the high ground over agricultural and ecological preservation — and it should! *A Pattern Language* annotations on Pattern 4: Agricultural Valleys &lpar;2 min read&rpar; 
   - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/)
 
@@ -26,8 +29,5 @@ I try to make a habit of publishing interesting/helpful notes from my Obsidian v
   - **Tags**: [`#systems`](https://blog.chaoticgood.computer/tags/horticulture/seasons/systems/)
 
 - **[APL: Pattern 1; Independent Regions](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/01-independent-regions)**:  Home isn&#39;t where the heart is — it&#39;s a single node on a very, very large graph. Annotations for the &quot;Independent Regions&quot; pattern of *A Pattern Language*. &lpar;10 min read&rpar; 
-  - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
-
-- **[APL: Pattern 2; The Distribution of Towns](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/02-the-distribution-of-towns)**:  How close is too close? How far is too far? *A Pattern Language* annotations related to the statistical, economic, and ecologic concerns in balancing how dense human habitats ought to be. &lpar;5 min read&rpar; 
   - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
 <!-- BLOG-POST-LIST:END -->
