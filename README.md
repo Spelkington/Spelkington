@@ -16,7 +16,10 @@ I'm Spencer — welcome to the page!
 I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
-- **[Agentic Programming as Theory Building](https://blog.chaoticgood.computer/content/annotations/programming-as-theory-building)**:  Do humans have a role in software development anymore? Absolutely — but we need to rethink what it means to program. An modern review of Peter Naur&#39;s 1985 essay &quot;Programming as Theory Building&quot; &lpar;0 min read&rpar; 
+- **[An Annotated Guide to Hobbyist Protein Folding](https://blog.chaoticgood.computer/content/annotations/protein-folding-for-fun)**:  Amaze &lpar;or bore&rpar; your friends and family by picking up on a hot new hobby that&#39;s all the rage — protein folding! An annotated starter to the 2021 paper &quot;ColabFold - Making protein folding accessible to all&quot; &lpar;8 min read&rpar; 
+  - **Tags**: [`#bio`](https://blog.chaoticgood.computer/tags/engineering/bio/), [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#python`](https://blog.chaoticgood.computer/tags/engineering/languages/python/), [`#annotations`](https://blog.chaoticgood.computer/tags/writing/annotations/)
+
+- **[Agentic Programming as Theory Building](https://blog.chaoticgood.computer/content/annotations/programming-as-theory-building)**:  Do humans have a role in software development anymore? Absolutely — but we need to rethink what it means to program. An modern review of Peter Naur&#39;s 1985 essay &quot;Programming as Theory Building&quot; &lpar;33 min read&rpar; 
   - **Tags**: [`#ai`](https://blog.chaoticgood.computer/tags/engineering/ai/), [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#strategy`](https://blog.chaoticgood.computer/tags/economics/strategy/), [`#annotations`](https://blog.chaoticgood.computer/tags/writing/annotations/)
 
 - **[APL: Pattern 4; Agricultural Valleys](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/04-agricultural-valleys)**:  Urban development has the high ground over agricultural and ecological preservation — and it should! *A Pattern Language* annotations on Pattern 4: Agricultural Valleys &lpar;2 min read&rpar; 
@@ -27,7 +30,4 @@ I try to make a habit of publishing interesting/helpful notes from my Obsidian v
 
 - **[Systems: Week 8](https://blog.chaoticgood.computer/content/notes/periodic/weekly/2026/2026-W07)**:  &lpar;4 min read&rpar; 
   - **Tags**: [`#systems`](https://blog.chaoticgood.computer/tags/horticulture/seasons/systems/)
-
-- **[APL: Pattern 1; Independent Regions](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/01-independent-regions)**:  Home isn&#39;t where the heart is — it&#39;s a single node on a very, very large graph. Annotations for the &quot;Independent Regions&quot; pattern of *A Pattern Language*. &lpar;10 min read&rpar; 
-  - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
 <!-- BLOG-POST-LIST:END -->
