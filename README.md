@@ -16,6 +16,9 @@ I'm Spencer — welcome to the page!
 I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
+- **[Design of a mucin-selective protease for targeted degradation of cancer-associated mucins](https://blog.chaoticgood.computer/content/annotations/bertozzi-stickies)**:  The rubber hits the road on ColabFold! I hope that&#39;s rubber I&#39;m smelling — although it may be the computer. A replication attempt of a protein fold figure in K. Pedram et al &lpar;2023&rpar;. &lpar;5 min read&rpar; 
+  - **Tags**: [`#bio`](https://blog.chaoticgood.computer/tags/engineering/bio/), [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#python`](https://blog.chaoticgood.computer/tags/engineering/languages/python/), [`#annotations`](https://blog.chaoticgood.computer/tags/writing/annotations/)
+
 - **[An Annotated Guide to Hobbyist Protein Folding](https://blog.chaoticgood.computer/content/annotations/protein-folding-for-fun)**:  Amaze &lpar;or bore&rpar; your friends and family by picking up on a hot new hobby that&#39;s all the rage — protein folding! An annotated starter to the 2021 paper &quot;ColabFold - Making protein folding accessible to all&quot; &lpar;8 min read&rpar; 
   - **Tags**: [`#bio`](https://blog.chaoticgood.computer/tags/engineering/bio/), [`#data`](https://blog.chaoticgood.computer/tags/engineering/data/), [`#python`](https://blog.chaoticgood.computer/tags/engineering/languages/python/), [`#homelab`](https://blog.chaoticgood.computer/tags/projects/homelab/), [`#annotations`](https://blog.chaoticgood.computer/tags/writing/annotations/)
 
@@ -27,7 +30,4 @@ I try to make a habit of publishing interesting/helpful notes from my Obsidian v
 
 - **[APL: Pattern 5; Lace of Country Streets](https://blog.chaoticgood.computer/content/annotations/a-pattern-language/05-lace-of-country-streets)**:  How dense is too dense? How sparse is too sparse? Annotations for A Pattern Language&#39;s proposals for the density of metro-adjacent country streets for agriculture, recreation, and preservation. &lpar;3 min read&rpar; 
   - **Tags**: [`#a-pattern-language`](https://blog.chaoticgood.computer/tags/writing/annotations/a-pattern-language/), [`#the-neighborhood`](https://blog.chaoticgood.computer/tags/projects/games/the-neighborhood/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
-
-- **[Systems: Week 8](https://blog.chaoticgood.computer/content/notes/periodic/weekly/2026/2026-W07)**:  &lpar;4 min read&rpar; 
-  - **Tags**: [`#systems`](https://blog.chaoticgood.computer/tags/horticulture/seasons/systems/)
 <!-- BLOG-POST-LIST:END -->
