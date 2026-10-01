@@ -16,6 +16,12 @@ I'm Spencer — welcome to the page!
 I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
+- **[Software as Burritos](https://blog.chaoticgood.computer/content/notes/agronomic-software-side-note)**:  A brief side-rant about the burrito-style economics of junior-level software engineering &lpar;3 min read&rpar; 
+  - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/)
+
+- **[Agronomic Software Development](https://blog.chaoticgood.computer/content/notes/agronomic-software-development.mdx)**:  Garden-inspired development as a non-sinister, people-centric way to think about post-LLM software development &lpar;21 min read&rpar; 
+  - **Tags**: [`#ai`](https://blog.chaoticgood.computer/tags/engineering/ai/), [`#horticulture`](https://blog.chaoticgood.computer/tags/horticulture/), [`#strategy`](https://blog.chaoticgood.computer/tags/economics/strategy/), [`#highlights`](https://blog.chaoticgood.computer/tags/writing/highlights/)
+
 - **[Security Alert: Softlock and ACE via Natural Language Overload](https://blog.chaoticgood.computer/content/notes/natural-language-cve)**:  &lpar;7 min read&rpar; 
   - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#ai`](https://blog.chaoticgood.computer/tags/engineering/ai/)
 
@@ -24,10 +30,4 @@ I try to make a habit of publishing interesting/helpful notes from my Obsidian v
 
 - **[Working with Valves: Understanding the Structure of &quot;Flat&quot; Organizations](https://blog.chaoticgood.computer/content/annotations/valve-handbook)**:  Many an engineer has heard tales of Valve&#39;s &quot;flat&quot; organization structure — what is fact, what is fiction, and how does it actually work? An annotated copy of the 2012 First Edition of Valve&#39;s Employee Handbook. &lpar;23 min read&rpar; 
   - **Tags**: [`#strategy`](https://blog.chaoticgood.computer/tags/economics/strategy/), [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#ai`](https://blog.chaoticgood.computer/tags/engineering/ai/), [`#annotations`](https://blog.chaoticgood.computer/tags/writing/annotations/)
-
-- **[The Theory of Stupidity &lpar;and the graph inside you&rpar;](https://blog.chaoticgood.computer/content/annotations/theory-of-stupidity)**:  Our lives are all dominated by a little graph in our hearts — and sometimes, that graph gets wacky. A review of Dietrich Bonhoeffer&#39;s &quot;Theory of Stupidity&quot;, part of his larger ~1943-1945 work &quot;Letters and Papers from Prison.&quot; &lpar;12 min read&rpar; 
-  - **Tags**: [`#annotations`](https://blog.chaoticgood.computer/tags/writing/annotations/), [`#policy`](https://blog.chaoticgood.computer/tags/economics/policy/)
-
-- **[Systems: Week 11](https://blog.chaoticgood.computer/content/notes/periodic/weekly/2026/2026-w10)**:  Watch a human cope about bots taking his job in real time. Is he cooked? Find out tonight in Season of Systems: Week 11! &lpar;6 min read&rpar; 
-  - **Tags**: [`#systems`](https://blog.chaoticgood.computer/tags/horticulture/seasons/systems/), [`#ai`](https://blog.chaoticgood.computer/tags/engineering/ai/), [`#bio`](https://blog.chaoticgood.computer/tags/engineering/bio/), [`#economics`](https://blog.chaoticgood.computer/tags/economics/)
 <!-- BLOG-POST-LIST:END -->
