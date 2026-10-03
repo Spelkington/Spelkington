@@ -19,7 +19,7 @@ I try to make a habit of publishing interesting/helpful notes from my Obsidian v
 - **[Software as Burritos](https://blog.chaoticgood.computer/content/notes/agronomic-software-side-note)**:  A brief side-rant about the burrito-style economics of junior-level software engineering &lpar;3 min read&rpar; 
   - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/)
 
-- **[Agronomic Software Development](https://blog.chaoticgood.computer/content/notes/agronomic-software-development.mdx)**:  Garden-inspired development as a non-sinister, people-centric way to think about post-LLM software development &lpar;21 min read&rpar; 
+- **[Agronomic Software Development](https://blog.chaoticgood.computer/content/notes/agronomic-software-development.mdx)**:  Garden-inspired development as a non-sinister, people-centric way to think about post-LLM software development &lpar;23 min read&rpar; 
   - **Tags**: [`#ai`](https://blog.chaoticgood.computer/tags/engineering/ai/), [`#horticulture`](https://blog.chaoticgood.computer/tags/horticulture/), [`#strategy`](https://blog.chaoticgood.computer/tags/economics/strategy/), [`#highlights`](https://blog.chaoticgood.computer/tags/writing/highlights/)
 
 - **[Security Alert: Softlock and ACE via Natural Language Overload](https://blog.chaoticgood.computer/content/notes/natural-language-cve)**:  &lpar;7 min read&rpar; 
