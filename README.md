@@ -16,10 +16,13 @@ I'm Spencer — welcome to the page!
 I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
+- **[The Wild Web](https://blog.chaoticgood.computer/content/notes/the-wild-web)**: Come with me and explore an invisible social network: IndieWeb, where the cowboy can-do attitude of Web 1.0 is alive and a-thrivin&#39;.
+  - **Tags**: [`#site`](https://blog.chaoticgood.computer/tags/site/), [`#data`](https://blog.chaoticgood.computer/tags/data/), [`#stamps`](https://blog.chaoticgood.computer/tags/stamps/), [`#flowthru`](https://blog.chaoticgood.computer/tags/flowthru/)
+
 - **[You can pry my dashes from my cold, dead hands](https://blog.chaoticgood.computer/content/notes/dashes)**: A bit of self-reflection on dashes in my writing to decide if LLMs have rotted my brain, or if my brain was already beyond saving from the start.
   - **Tags**: [`#data`](https://blog.chaoticgood.computer/tags/data/), [`#notes`](https://blog.chaoticgood.computer/tags/notes/), [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/)
 
-- **[On Dead Math and Small Pickles](https://blog.chaoticgood.computer/content/dead-math)**: To understand why OpenAI completely upended the world of mathematics with its proof that Navier-Stokes is not smooth in three dimensions, you must first understand that cucumbers of any size can be properly pickled.
+- **[Math is Dead, and Pickles are Small](https://blog.chaoticgood.computer/content/dead-math)**: To understand why OpenAI completely upended the world of mathematics with its proof that Navier-Stokes is not smooth in three dimensions, you must first understand that cucumbers of any size can be properly pickled.
   - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#ai`](https://blog.chaoticgood.computer/tags/ai/), [`#management`](https://blog.chaoticgood.computer/tags/management/), [`#essays`](https://blog.chaoticgood.computer/tags/essays/)
 
 - **[The Season of Stamps](https://blog.chaoticgood.computer/content/season-of-stamps)**: The kickoff post for my Season of Stamps: exploring new places, meeting new people, and putting the final stamp of approval on a back catalog of projects worth publishing.
@@ -27,7 +30,4 @@ I try to make a habit of publishing interesting/helpful notes from my Obsidian v
 
 - **[Chipotleware](https://blog.chaoticgood.computer/content/notes/agronomic-software-side-note)**: A brief side-rant about the &lpar;former&rpar; burrito-style economics of junior-level software engineering
   - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#notes`](https://blog.chaoticgood.computer/tags/notes/)
-
-- **[Software Gardening](https://blog.chaoticgood.computer/content/notes/software-gardening)**: Garden-inspired development as a non-sinister, people-centric way to think about post-LLM software development
-  - **Tags**: [`#horticulture`](https://blog.chaoticgood.computer/tags/horticulture/), [`#management`](https://blog.chaoticgood.computer/tags/management/), [`#ai`](https://blog.chaoticgood.computer/tags/ai/), [`#systems`](https://blog.chaoticgood.computer/tags/systems/)
 <!-- BLOG-POST-LIST:END -->
