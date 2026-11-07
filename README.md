@@ -16,18 +16,18 @@ I'm Spencer — welcome to the page!
 I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
+- **[Planning With Agents: Better can be Better](https://blog.chaoticgood.computer/content/annotations/highlights/maggieappleton.com/Planning-with-Agents-Divided-Worlds,-Boundary-Objects,-and-Thicker-Interfaces)**: Annotations on Maggie Appleton&#39;s 2026 talk about Boundary Objects
+  - **Tags**: [`#ai`](https://blog.chaoticgood.computer/tags/ai/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/), [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/)
+
+- **[Tell the speakers that you liked their talks](https://blog.chaoticgood.computer/content/annotations/highlights/ohhelloana.blog/Tell-the-speakers-that-you-liked-their-talks)**: Some quick thoughts on Ana Rodrigues&#39;s post &quot;Tell the speakers that you liked their talks&quot;, and a general initial test for web-based annotations.
+  - **Tags**: [`#stamps`](https://blog.chaoticgood.computer/tags/stamps/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/), [`#seasons`](https://blog.chaoticgood.computer/tags/seasons/)
+
+- **[Union types &lpar;C# reference&rpar;](https://blog.chaoticgood.computer/content/annotations/highlights/learn.microsoft.com/Union-types-C-reference)**: Some quick notes on the Union type addition in C# 15, and how I can use it to make Flowthru fail-fast&lpar;er&rpar;
+  - **Tags**: [`#flowthru`](https://blog.chaoticgood.computer/tags/flowthru/), [`#csharp`](https://blog.chaoticgood.computer/tags/csharp/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/)
+
+- **[Writing Better Gherkin](https://blog.chaoticgood.computer/content/annotations/highlights/cucumber.io/Writing-better-Gherkin-Cucumber)**: A few notes on a very important, but hidden, part of the Cucumber and Gherkin documentation around Behavior Driven Development
+  - **Tags**: [`#ai`](https://blog.chaoticgood.computer/tags/ai/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/), [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/)
+
 - **[The Wild Web](https://blog.chaoticgood.computer/content/notes/the-wild-web)**: Come with me and explore an invisible social network: IndieWeb, where the cowboy can-do attitude of Web 1.0 is alive and a-thrivin&#39;.
   - **Tags**: [`#site`](https://blog.chaoticgood.computer/tags/site/), [`#data`](https://blog.chaoticgood.computer/tags/data/), [`#stamps`](https://blog.chaoticgood.computer/tags/stamps/), [`#flowthru`](https://blog.chaoticgood.computer/tags/flowthru/)
-
-- **[You can pry my dashes from my cold, dead hands](https://blog.chaoticgood.computer/content/notes/dashes)**: A bit of self-reflection on dashes in my writing to decide if LLMs have rotted my brain, or if my brain was already beyond saving from the start.
-  - **Tags**: [`#data`](https://blog.chaoticgood.computer/tags/data/), [`#notes`](https://blog.chaoticgood.computer/tags/notes/), [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/)
-
-- **[Math is Dead, and Pickles are Small](https://blog.chaoticgood.computer/content/dead-math)**: To understand why OpenAI completely upended the world of mathematics with its proof that Navier-Stokes is not smooth in three dimensions, you must first understand that cucumbers of any size can be properly pickled.
-  - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#ai`](https://blog.chaoticgood.computer/tags/ai/), [`#management`](https://blog.chaoticgood.computer/tags/management/), [`#essays`](https://blog.chaoticgood.computer/tags/essays/)
-
-- **[The Season of Stamps](https://blog.chaoticgood.computer/content/season-of-stamps)**: The kickoff post for my Season of Stamps: exploring new places, meeting new people, and putting the final stamp of approval on a back catalog of projects worth publishing.
-  - **Tags**: [`#stamps`](https://blog.chaoticgood.computer/tags/stamps/), [`#notes`](https://blog.chaoticgood.computer/tags/notes/), [`#seasons`](https://blog.chaoticgood.computer/tags/seasons/), [`#horticulture`](https://blog.chaoticgood.computer/tags/horticulture/)
-
-- **[Chipotleware](https://blog.chaoticgood.computer/content/notes/agronomic-software-side-note)**: A brief side-rant about the &lpar;former&rpar; burrito-style economics of junior-level software engineering
-  - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#notes`](https://blog.chaoticgood.computer/tags/notes/)
 <!-- BLOG-POST-LIST:END -->
