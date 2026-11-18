@@ -16,18 +16,18 @@ I'm Spencer — welcome to the page!
 I try to make a habit of publishing interesting/helpful notes from my Obsidian vault. If you read one and want to chat more about it, [reach out!](https://blog.chaoticgood.computer/contact)
 
 <!-- BLOG-POST-LIST:START -->
+- **[Fortune Telling and Speculative Design](https://blog.chaoticgood.computer/content/annotations/highlights/maggieappleton.com/Fortune-Telling-and-Speculative-Design)**: Annotations on Appleton&#39;s post about design engineering and futures speculation.
+  - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/)
+
+- **[Working with Designers](https://blog.chaoticgood.computer/content/annotations/highlights/seangoedecke.com/Working-with-designers)**: Brief notes on Sean Goedecke&#39;s &quot;Working with Designers&quot;
+  - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#management`](https://blog.chaoticgood.computer/tags/management/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/)
+
+- **[Law of Demeter &lpar;LOD&rpar;](https://blog.chaoticgood.computer/content/annotations/highlights/www2.ccs.neu.edu/Law-of-Demeter-(General-Formulation))**: Annotations on Karl Lieberherr&#39;s &quot;Law of Demeter&quot;
+  - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/)
+
+- **[No Silver Bullet: Essence and Accident in Software Engineering](https://blog.chaoticgood.computer/content/no-silver-bullet-1986)**: A set of annotations on the seminal computation and project management paper, No Silver Bullet, by Frederick Brooks &lpar;1986&rpar;
+  - **Tags**: [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/), [`#ai`](https://blog.chaoticgood.computer/tags/ai/), [`#management`](https://blog.chaoticgood.computer/tags/management/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/)
+
 - **[Planning With Agents: Better can be Better](https://blog.chaoticgood.computer/content/annotations/highlights/maggieappleton.com/Planning-with-Agents-Divided-Worlds,-Boundary-Objects,-and-Thicker-Interfaces)**: Annotations on Maggie Appleton&#39;s 2026 talk about Boundary Objects
   - **Tags**: [`#ai`](https://blog.chaoticgood.computer/tags/ai/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/), [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/)
-
-- **[Tell the speakers that you liked their talks](https://blog.chaoticgood.computer/content/annotations/highlights/ohhelloana.blog/Tell-the-speakers-that-you-liked-their-talks)**: Some quick thoughts on Ana Rodrigues&#39;s post &quot;Tell the speakers that you liked their talks&quot;, and a general initial test for web-based annotations.
-  - **Tags**: [`#stamps`](https://blog.chaoticgood.computer/tags/stamps/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/), [`#seasons`](https://blog.chaoticgood.computer/tags/seasons/)
-
-- **[Union types &lpar;C# reference&rpar;](https://blog.chaoticgood.computer/content/annotations/highlights/learn.microsoft.com/Union-types-C-reference)**: Some quick notes on the Union type addition in C# 15, and how I can use it to make Flowthru fail-fast&lpar;er&rpar;
-  - **Tags**: [`#flowthru`](https://blog.chaoticgood.computer/tags/flowthru/), [`#csharp`](https://blog.chaoticgood.computer/tags/csharp/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/)
-
-- **[Writing Better Gherkin](https://blog.chaoticgood.computer/content/annotations/highlights/cucumber.io/Writing-better-Gherkin-Cucumber)**: A few notes on a very important, but hidden, part of the Cucumber and Gherkin documentation around Behavior Driven Development
-  - **Tags**: [`#ai`](https://blog.chaoticgood.computer/tags/ai/), [`#annotations`](https://blog.chaoticgood.computer/tags/annotations/), [`#fragments`](https://blog.chaoticgood.computer/tags/fragments/), [`#engineering`](https://blog.chaoticgood.computer/tags/engineering/)
-
-- **[The Wild Web](https://blog.chaoticgood.computer/content/notes/the-wild-web)**: Come with me and explore an invisible social network: IndieWeb, where the cowboy can-do attitude of Web 1.0 is alive and a-thrivin&#39;.
-  - **Tags**: [`#site`](https://blog.chaoticgood.computer/tags/site/), [`#data`](https://blog.chaoticgood.computer/tags/data/), [`#stamps`](https://blog.chaoticgood.computer/tags/stamps/), [`#flowthru`](https://blog.chaoticgood.computer/tags/flowthru/)
 <!-- BLOG-POST-LIST:END -->
